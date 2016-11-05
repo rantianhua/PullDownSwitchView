@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PullDownSwitchView</string>
+    <string name="normal_view">Normal View</string>
+    <string name="menu_switch">Switch</string>
+</resources>
